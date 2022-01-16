@@ -1,6 +1,6 @@
 module github.com/davyxu/tabtoy
 
-go 1.12
+go 1.16
 
 require (
 	github.com/ahmetb/go-linq v3.0.0+incompatible
